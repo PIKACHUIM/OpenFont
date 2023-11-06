@@ -1,29 +1,29 @@
 @font-face {
   font-family: "MapleMono SC NF Regular";
-  src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Regular.ttf") format("truetype");
+  src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Regular.ttf");
 }
 
 @font-face {
   font-family: "MapleMono SC NF Bold";
-  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Bold.ttf") format("truetype");
+  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Bold.ttf");
 }
 
 @font-face {
   font-family: "MapleMono SC NF Bold Italic";
-  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-BoldItalic.ttf") format("truetype");
+  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-BoldItalic.ttf");
 }
 
 @font-face {
   font-family: "MapleMono SC NF Italic";
-  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Italic.ttf") format("truetype");
+  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Italic.ttf");
 }
 
 @font-face {
   font-family: "MapleMono SC NF Light Italic";
-  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-LightItalic.ttf") format("truetype");
+  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-LightItalic.ttf");
 }
 
 @font-face {
   font-family: "MapleMono SC NF Light";
-  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Light.ttf") format("truetype");
+  src: url("https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Light.ttf");
 }
