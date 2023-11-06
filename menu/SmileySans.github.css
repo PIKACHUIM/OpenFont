@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Smiley Sans";
+  src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.ttf") format('truetype'),
+  url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.ttf.woff2") format('woff2'),
+  url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.otf") format('opentype'),
+  url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.otf.woff2") format('woff2'),
+}

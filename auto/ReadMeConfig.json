@@ -1,0 +1,34 @@
+{
+  "fonts": {
+    "MapleMono": {
+      "name": "**Maple Font**",
+      "nick": "/",
+      "repo": "https://github.com/subframe7536/maple-font",
+      "text": "SIL Open Font License 1.1",
+      "eula": "/blob/main/OFL.txt",
+      "f_iu": "Yes",
+      "f_cu": "Yes",
+      "vers": "6.4"
+    },
+    "SmileySans": {
+      "name": "**SmileySans**",
+      "nick": "得意黑",
+      "repo": "https://github.com/atelier-anchor/smiley-sans",
+      "text": "SIL Open Font License 1.1",
+      "eula": "/blob/main/LICENSE",
+      "f_iu": "Yes",
+      "f_cu": "Yes",
+      "vers": "1.1.1"
+    },
+    "JetBrainsMono": {
+      "name": "**JetBrains Mono**",
+      "nick": "/",
+      "repo": "https://github.com/JetBrains/JetBrainsMono",
+      "text": "SIL Open Font License 1.1",
+      "eula": "/blob/main/OFL.txt",
+      "f_iu": "Yes",
+      "f_cu": "Yes",
+      "vers": "2.304"
+    }
+  }
+}
