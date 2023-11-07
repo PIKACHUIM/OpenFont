@@ -39,7 +39,7 @@ class GenList:
         # Create Header
         with open("auto/ReadMeHeader.md", "r") as f:
             head_data = f.read()
-        with open("README.MD", "w") as read_file:
+        with open("README.MD", "w", encoding="utf8") as read_file:
             read_file.write(head_data)
             # Create CSS
             for font_main in os.listdir(self.path):
