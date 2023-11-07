@@ -46,10 +46,10 @@ class GenList:
                 self.createMD(font_main, read_file)
         with open("README.MD", "r", encoding="utf8") as read_file:
             read_text = read_file.read()
-        with open("index.html", "w") as save_file:
-            save_file.write(
-                markdown2.markdown(read_text)
-            )
+        # with open("index.html", "w") as save_file:
+        #     save_file.write(
+        #         markdown2.markdown(read_text)
+        #     )
 
     def createMD(self, font_main, read_file):
         # createMD ===========================================================================
