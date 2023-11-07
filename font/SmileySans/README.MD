@@ -34,8 +34,7 @@
 
 ```css
 html{
-font-family: 'SmileySans Oblique', serif;
-
+	font-family: 'SmileySans Oblique', serif;
 }
 ```
 

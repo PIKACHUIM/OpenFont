@@ -34,41 +34,40 @@
 
 ```css
 html{
-font-family: 'JetBrainsMono Bold', serif;
-font-family: 'JetBrainsMono BoldItalic', serif;
-font-family: 'JetBrainsMono ExtraBold', serif;
-font-family: 'JetBrainsMono ExtraBoldItalic', serif;
-font-family: 'JetBrainsMono ExtraLight', serif;
-font-family: 'JetBrainsMono ExtraLightItalic', serif;
-font-family: 'JetBrainsMono Italic wght', serif;
-font-family: 'JetBrainsMono Italic', serif;
-font-family: 'JetBrainsMono Light', serif;
-font-family: 'JetBrainsMono LightItalic', serif;
-font-family: 'JetBrainsMono Medium', serif;
-font-family: 'JetBrainsMono MediumItalic', serif;
-font-family: 'JetBrainsMono Regular', serif;
-font-family: 'JetBrainsMono SemiBold', serif;
-font-family: 'JetBrainsMono SemiBoldItalic', serif;
-font-family: 'JetBrainsMono Thin', serif;
-font-family: 'JetBrainsMono ThinItalic', serif;
-font-family: 'JetBrainsMono wght', serif;
-font-family: 'JetBrainsMonoNL Bold', serif;
-font-family: 'JetBrainsMonoNL BoldItalic', serif;
-font-family: 'JetBrainsMonoNL ExtraBold', serif;
-font-family: 'JetBrainsMonoNL ExtraBoldItalic', serif;
-font-family: 'JetBrainsMonoNL ExtraLight', serif;
-font-family: 'JetBrainsMonoNL ExtraLightItalic', serif;
-font-family: 'JetBrainsMonoNL Italic', serif;
-font-family: 'JetBrainsMonoNL Light', serif;
-font-family: 'JetBrainsMonoNL LightItalic', serif;
-font-family: 'JetBrainsMonoNL Medium', serif;
-font-family: 'JetBrainsMonoNL MediumItalic', serif;
-font-family: 'JetBrainsMonoNL Regular', serif;
-font-family: 'JetBrainsMonoNL SemiBold', serif;
-font-family: 'JetBrainsMonoNL SemiBoldItalic', serif;
-font-family: 'JetBrainsMonoNL Thin', serif;
-font-family: 'JetBrainsMonoNL ThinItalic', serif;
-
+	font-family: 'JetBrainsMono Bold', serif;
+	font-family: 'JetBrainsMono BoldItalic', serif;
+	font-family: 'JetBrainsMono ExtraBold', serif;
+	font-family: 'JetBrainsMono ExtraBoldItalic', serif;
+	font-family: 'JetBrainsMono ExtraLight', serif;
+	font-family: 'JetBrainsMono ExtraLightItalic', serif;
+	font-family: 'JetBrainsMono Italic wght', serif;
+	font-family: 'JetBrainsMono Italic', serif;
+	font-family: 'JetBrainsMono Light', serif;
+	font-family: 'JetBrainsMono LightItalic', serif;
+	font-family: 'JetBrainsMono Medium', serif;
+	font-family: 'JetBrainsMono MediumItalic', serif;
+	font-family: 'JetBrainsMono Regular', serif;
+	font-family: 'JetBrainsMono SemiBold', serif;
+	font-family: 'JetBrainsMono SemiBoldItalic', serif;
+	font-family: 'JetBrainsMono Thin', serif;
+	font-family: 'JetBrainsMono ThinItalic', serif;
+	font-family: 'JetBrainsMono wght', serif;
+	font-family: 'JetBrainsMonoNL Bold', serif;
+	font-family: 'JetBrainsMonoNL BoldItalic', serif;
+	font-family: 'JetBrainsMonoNL ExtraBold', serif;
+	font-family: 'JetBrainsMonoNL ExtraBoldItalic', serif;
+	font-family: 'JetBrainsMonoNL ExtraLight', serif;
+	font-family: 'JetBrainsMonoNL ExtraLightItalic', serif;
+	font-family: 'JetBrainsMonoNL Italic', serif;
+	font-family: 'JetBrainsMonoNL Light', serif;
+	font-family: 'JetBrainsMonoNL LightItalic', serif;
+	font-family: 'JetBrainsMonoNL Medium', serif;
+	font-family: 'JetBrainsMonoNL MediumItalic', serif;
+	font-family: 'JetBrainsMonoNL Regular', serif;
+	font-family: 'JetBrainsMonoNL SemiBold', serif;
+	font-family: 'JetBrainsMonoNL SemiBoldItalic', serif;
+	font-family: 'JetBrainsMonoNL Thin', serif;
+	font-family: 'JetBrainsMonoNL ThinItalic', serif;
 }
 ```
 

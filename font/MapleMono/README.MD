@@ -34,31 +34,30 @@
 
 ```css
 html{
-font-family: 'MapleMono Bold', serif;
-font-family: 'MapleMono BoldItalic', serif;
-font-family: 'MapleMono Italic', serif;
-font-family: 'MapleMono Light', serif;
-font-family: 'MapleMono LightItalic', serif;
-font-family: 'MapleMono Regular', serif;
-font-family: 'MapleMono Autohint Bold', serif;
-font-family: 'MapleMono Autohint BoldItalic', serif;
-font-family: 'MapleMono Autohint Italic', serif;
-font-family: 'MapleMono Autohint Light', serif;
-font-family: 'MapleMono Autohint LightItalic', serif;
-font-family: 'MapleMono Autohint Regular', serif;
-font-family: 'MapleMono NF Bold', serif;
-font-family: 'MapleMono NF BoldItalic', serif;
-font-family: 'MapleMono NF Italic', serif;
-font-family: 'MapleMono NF Light', serif;
-font-family: 'MapleMono NF LightItalic', serif;
-font-family: 'MapleMono NF Regular', serif;
-font-family: 'MapleMono SC NF Bold', serif;
-font-family: 'MapleMono SC NF BoldItalic', serif;
-font-family: 'MapleMono SC NF Italic', serif;
-font-family: 'MapleMono SC NF Light', serif;
-font-family: 'MapleMono SC NF LightItalic', serif;
-font-family: 'MapleMono SC NF Regular', serif;
-
+	font-family: 'MapleMono Bold', serif;
+	font-family: 'MapleMono BoldItalic', serif;
+	font-family: 'MapleMono Italic', serif;
+	font-family: 'MapleMono Light', serif;
+	font-family: 'MapleMono LightItalic', serif;
+	font-family: 'MapleMono Regular', serif;
+	font-family: 'MapleMono Autohint Bold', serif;
+	font-family: 'MapleMono Autohint BoldItalic', serif;
+	font-family: 'MapleMono Autohint Italic', serif;
+	font-family: 'MapleMono Autohint Light', serif;
+	font-family: 'MapleMono Autohint LightItalic', serif;
+	font-family: 'MapleMono Autohint Regular', serif;
+	font-family: 'MapleMono NF Bold', serif;
+	font-family: 'MapleMono NF BoldItalic', serif;
+	font-family: 'MapleMono NF Italic', serif;
+	font-family: 'MapleMono NF Light', serif;
+	font-family: 'MapleMono NF LightItalic', serif;
+	font-family: 'MapleMono NF Regular', serif;
+	font-family: 'MapleMono SC NF Bold', serif;
+	font-family: 'MapleMono SC NF BoldItalic', serif;
+	font-family: 'MapleMono SC NF Italic', serif;
+	font-family: 'MapleMono SC NF Light', serif;
+	font-family: 'MapleMono SC NF LightItalic', serif;
+	font-family: 'MapleMono SC NF Regular', serif;
 }
 ```
 

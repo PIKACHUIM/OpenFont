@@ -141,7 +141,7 @@ class GenList:
             for font_name in font_maps[font_subs]:
                 temp_text = "%s %s" % (
                     font_subs.replace("-", " "), font_name)
-                save_data += "font-family: '%s', serif;\n" % temp_text
+                save_data += "\tfont-family: '%s', serif;\n" % temp_text
                 show_data += show_temp.format(
                     font_main, temp_text)
         with open("auto/FontSubPages.md", "r",
