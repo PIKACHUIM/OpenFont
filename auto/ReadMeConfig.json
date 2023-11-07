@@ -6,8 +6,10 @@
       "repo": "https://github.com/subframe7536/maple-font",
       "text": "SIL Open Font License 1.1",
       "eula": "/blob/main/OFL.txt",
-      "f_iu": "Yes",
-      "f_cu": "Yes",
+      "f_iu": "√",
+      "f_cu": "√",
+      "m_cl": "×",
+      "m_an": "×",
       "vers": "6.4"
     },
     "SmileySans": {
@@ -18,6 +20,8 @@
       "eula": "/blob/main/LICENSE",
       "f_iu": "Yes",
       "f_cu": "Yes",
+      "m_cl": "No",
+      "m_an": "No",
       "vers": "1.1.1"
     },
     "JetBrainsMono": {
@@ -28,6 +32,8 @@
       "eula": "/blob/main/OFL.txt",
       "f_iu": "Yes",
       "f_cu": "Yes",
+      "m_cl": "No",
+      "m_an": "No",
       "vers": "2.304"
     }
   }

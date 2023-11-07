@@ -1,5 +1,7 @@
 import json
 import os.path
+import markdown2
+import codecs
 
 FONT_TYPE = {
     "ttf": "truetype",
@@ -57,7 +59,9 @@ class GenList:
                             "https://cdn-tx1.pika.net.cn/Menu/%s.github.css" % font_main,
                             font_main, "font/%s" % font_main)
             read_file.write(save_text)
-            self.dealFont(font_main)
+            font_maps = self.dealFont(font_main)
+            self.dealFile(font_main, font_maps)
+            self.dealPage(font_main, font_maps)
 
     def dealFont(self, font_main):
         if not os.path.exists(self.menu):
@@ -93,6 +97,9 @@ class GenList:
                 if main_name not in font_maps[font_subs]:
                     font_maps[font_subs][main_name] = []
                 font_maps[font_subs][main_name].append(subs_name)
+        return font_maps
+
+    def dealFile(self, font_main, font_maps):
         # Process File =======================================================================
         for urls_item in URLS_LIST:
             with open("%s/%s.%s.css" % (
@@ -120,6 +127,49 @@ class GenList:
                         if counter > 0:
                             print(font_text)
                             save_file.write(font_text)
+
+    def dealPage(self, font_main, font_maps):
+        save_data = ""
+        show_data = ('<link rel="stylesheet" '
+                     'href="https://cdn-tx1.pika.net.cn/Menu/'
+                     '{}.123yun.css">\n\n').format(font_main)
+        show_temp = ('<h3 style="font-family: "{1}", serif;">{1}</h3>\n'
+                     '<p style="font-family: "{1}", serif;">'
+                     'The quick brown fox jumps over a lazy dog.<br />\n\n'
+                     '因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>\n\n')
+        for font_subs in font_maps:
+            for font_name in font_maps[font_subs]:
+                temp_text = "%s %s" % (
+                    font_subs.replace("-", " "), font_name)
+                save_data += "font-family: '%s', serif;\n" % temp_text
+                show_data += show_temp.format(
+                    font_main, temp_text)
+        with open("auto/FontSubPages.md", "r",
+                  encoding="utf8") as temp_file:
+            temp_text = temp_file.read()
+        save_text = temp_text.format(
+            "",
+            self.conf[font_main]['name'].replace("*", ""),
+            self.conf[font_main]['repo'],
+            self.conf[font_main]['text'],
+            self.conf[font_main]['eula'],
+            self.conf[font_main]['vers'],
+            self.conf[font_main]['f_iu'],
+            self.conf[font_main]['f_cu'],
+            self.conf[font_main]['m_cl'],
+            self.conf[font_main]['m_an'],
+            font_main, save_data, show_data
+        )
+        with open("%s/%s/README.MD" % (
+                self.path, font_main
+        ), "w") as save_file:
+            save_file.write(save_text)
+        with open("%s/%s/index.html" % (
+                self.path, font_main
+        ), "w") as save_file:
+            save_file.write(
+                markdown2.markdown(save_text)
+            )
 
 
 if __name__ == '__main__':

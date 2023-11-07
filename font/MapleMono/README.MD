@@ -1,62 +1,187 @@
-# ä¸€ä¸ªä¸­è‹±æ–‡ç­‰æ¬¾å­—ä½“ Maple Font
-> å¼€æºåœ°å€ï¼šhttps://github.com/subframe7536/maple-font
-> è®¸å¯åè®®ï¼š[å¼€æ”¾å­—ä½“è®¸å¯è¯1.1 SIL Open Font License 1.1](https://github.com/subframe7536/maple-font/blob/main/OFL.txt)
-> ä½¿ç”¨é™åˆ¶ï¼šâˆšå…è´¹ä½¿ç”¨ âˆšå…è´¹å•†ç”¨ âˆšä¿®æ”¹é—­æº Ã—è®¸å¯æ›´æ”¹
+# Maple Font
 
-## ä½¿ç”¨åŠæ³•
-### å¯¼å…¥CSS
+> ¿ªÔ´µØÖ· / Repository£º[https://github.com/subframe7536/maple-font](https://github.com/subframe7536/maple-font)
+> 
+> Ğí¿ÉĞ­Òé / UseLicense£º[SIL Open Font License 1.1](https://github.com/subframe7536/maple-font/blob/main/OFL.txt)
+> 
+> µ±Ç°°æ±¾ / CurrentVer: 6.4
+> 
+> Ê¹ÓÃÏŞÖÆ / Limitation£º
+> - ¡Ì Ãâ·ÑÊ¹ÓÃ / Free for Individual: ¡Ì
+> - ¡Ì Ãâ·ÑÉÌÓÃ / Free for commercial: ¡Ì
+> - ¡Á Ê¹ÓÃ±ÕÔ´ / Closed after modify: ¡Á
+> - ¡Á Ğí¿É¸ü¸Ä / No OFL after modify: ¡Á
+
+## Ê¹ÓÃ°ì·¨ / Usage
+
+### µ¼ÈëCSS / Import CSS
+
+**GithubÔ´£¬ÊÊºÏº£ÍâµØÇø£¬²»ÏŞÖÆÁ÷Á¿£¬ËÙ¶ÈÂı¿ÉĞŞ¸ÄcssÎÄ¼şÓÃgithub.ur1.fun/¼ÓËÙ**
+**Github sources, suitable for overseas regions, unrestricted traffic or hosts**
 ```html
-<!-- 123äº‘ç›˜,  æ¯æœˆ100Gæµé‡ -->
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono.123yun.css">
-
-<!-- Githubæºï¼Œé€‚åˆæµ·å¤–åœ°åŒº -->
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono.123yun.css">
+<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/MapleMono.github.css">
 ```
-### ä½¿ç”¨å­—ä½“
+
+**123ÔÆÅÌ,  Ã¿ÔÂ100GÁ÷Á¿£¬Îª±ÜÃâÀÄÓÃ£¬»áÊÓÇé¿ö½ûÖ¹·ÃÎÊ½ûÖ¹Æµ·±·ÃÎÊµÄIP»òÕßÖ÷»ú**
+**To avoid abuse, some IP access will be prohibited depending on the situation**
+```html
+<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/MapleMono.123yun.css">
+```
+
+### Ê¹ÓÃ×ÖÌå / Use Font
+
 ```css
 html{
-	font-family: 'MapleMono SC NF Regular', serif;
-	font-family: 'MapleMono SC NF Bold', serif;
-	font-family: 'MapleMono SC NF Italic', serif;
-	font-family: 'MapleMono SC NF Light', serif;
-	font-family: 'MapleMono SC NF Light Italic', serif;
-	font-family: 'MapleMono SC NF Bold Italic', serif;
+font-family: 'MapleMono Bold', serif;
+font-family: 'MapleMono BoldItalic', serif;
+font-family: 'MapleMono Italic', serif;
+font-family: 'MapleMono Light', serif;
+font-family: 'MapleMono LightItalic', serif;
+font-family: 'MapleMono Regular', serif;
+font-family: 'MapleMono Autohint Bold', serif;
+font-family: 'MapleMono Autohint BoldItalic', serif;
+font-family: 'MapleMono Autohint Italic', serif;
+font-family: 'MapleMono Autohint Light', serif;
+font-family: 'MapleMono Autohint LightItalic', serif;
+font-family: 'MapleMono Autohint Regular', serif;
+font-family: 'MapleMono NF Bold', serif;
+font-family: 'MapleMono NF BoldItalic', serif;
+font-family: 'MapleMono NF Italic', serif;
+font-family: 'MapleMono NF Light', serif;
+font-family: 'MapleMono NF LightItalic', serif;
+font-family: 'MapleMono NF Regular', serif;
+font-family: 'MapleMono SC NF Bold', serif;
+font-family: 'MapleMono SC NF BoldItalic', serif;
+font-family: 'MapleMono SC NF Italic', serif;
+font-family: 'MapleMono SC NF Light', serif;
+font-family: 'MapleMono SC NF LightItalic', serif;
+font-family: 'MapleMono SC NF Regular', serif;
+
 }
 ```
 
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Font/MapleMono/MapleMono.github.css">
+## ×ÖÌåÔ¤ÀÀ / Font Preview
 
-<div>
-<h3>MapleMono SC NF Regular</h3>
-<p style="font-family: 'MapleMono SC NF Regular', serif;font-size: 32">The quick brown fox jumps over a lazy dog.<br />å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
-</div>
+<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/MapleMono.123yun.css">
 
-<div style="font-family: 'MapleMono SC NF Bold', serif;font-size: 32">
-<h3>MapleMono SC NF Bold</h3>
-<p style="font-family: 'MapleMono SC NF Bold', serif;font-size: 32">The quick brown fox jumps over a lazy dog.<br />å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
-</div>
+<h3 style="font-family: "MapleMono Bold", serif;">MapleMono Bold</h3>
+<p style="font-family: "MapleMono Bold", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-<div style="font-family: 'MapleMono SC NF Italic', serif;font-size: 32">
-<h3>MapleMono SC NF Italic</h3>
-<p style="font-family: 'MapleMono SC NF Italic', serif;font-size: 32">The quick brown fox jumps over a lazy dog.<br />å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
-</div>
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
 
-<div style="font-family: 'MapleMono SC NF Light', serif;font-size: 32">
-<h3>MapleMono SC NF Light</h3>
-<p style="font-family: 'MapleMono SC NF Light', serif;font-size: 32">The quick brown fox jumps over a lazy dog.<br />å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
-</div>
+<h3 style="font-family: "MapleMono BoldItalic", serif;">MapleMono BoldItalic</h3>
+<p style="font-family: "MapleMono BoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-<div style="font-family: 'MapleMono SC NF Bold Italic', serif;font-size: 32">
-<h3>MapleMono SC NF Bold Italic</h3>
-<p style="font-family: 'MapleMono SC NF Bold Italic', serif;font-size: 32">The quick brown fox jumps over a lazy dog.<br />å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
-</div>
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
 
-<div style="font-family: 'MapleMono SC NF Light Italic', serif;font-size: 32">
-<h3>MapleMono SC NF Light Italic</h3>
-<p style="font-family: 'MapleMono SC NF Light Italic', serif;font-size: 32">The quick brown fox jumps over a lazy dog.<br />å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
-</div>
+<h3 style="font-family: "MapleMono Italic", serif;">MapleMono Italic</h3>
+<p style="font-family: "MapleMono Italic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-<div style="font-family: 'MapleMono SC NF Bold Italic', serif;font-size: 32">
-<h3>MapleMono SC NF Bold Italic</h3>
-<p style="font-family: 'MapleMono SC NF Bold Italic', serif;font-size: 32">The quick brown fox jumps over a lazy dog.<br />å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
-</div>
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Light", serif;">MapleMono Light</h3>
+<p style="font-family: "MapleMono Light", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono LightItalic", serif;">MapleMono LightItalic</h3>
+<p style="font-family: "MapleMono LightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Regular", serif;">MapleMono Regular</h3>
+<p style="font-family: "MapleMono Regular", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Autohint Bold", serif;">MapleMono Autohint Bold</h3>
+<p style="font-family: "MapleMono Autohint Bold", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Autohint BoldItalic", serif;">MapleMono Autohint BoldItalic</h3>
+<p style="font-family: "MapleMono Autohint BoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Autohint Italic", serif;">MapleMono Autohint Italic</h3>
+<p style="font-family: "MapleMono Autohint Italic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Autohint Light", serif;">MapleMono Autohint Light</h3>
+<p style="font-family: "MapleMono Autohint Light", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Autohint LightItalic", serif;">MapleMono Autohint LightItalic</h3>
+<p style="font-family: "MapleMono Autohint LightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono Autohint Regular", serif;">MapleMono Autohint Regular</h3>
+<p style="font-family: "MapleMono Autohint Regular", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono NF Bold", serif;">MapleMono NF Bold</h3>
+<p style="font-family: "MapleMono NF Bold", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono NF BoldItalic", serif;">MapleMono NF BoldItalic</h3>
+<p style="font-family: "MapleMono NF BoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono NF Italic", serif;">MapleMono NF Italic</h3>
+<p style="font-family: "MapleMono NF Italic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono NF Light", serif;">MapleMono NF Light</h3>
+<p style="font-family: "MapleMono NF Light", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono NF LightItalic", serif;">MapleMono NF LightItalic</h3>
+<p style="font-family: "MapleMono NF LightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono NF Regular", serif;">MapleMono NF Regular</h3>
+<p style="font-family: "MapleMono NF Regular", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono SC NF Bold", serif;">MapleMono SC NF Bold</h3>
+<p style="font-family: "MapleMono SC NF Bold", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono SC NF BoldItalic", serif;">MapleMono SC NF BoldItalic</h3>
+<p style="font-family: "MapleMono SC NF BoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono SC NF Italic", serif;">MapleMono SC NF Italic</h3>
+<p style="font-family: "MapleMono SC NF Italic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono SC NF Light", serif;">MapleMono SC NF Light</h3>
+<p style="font-family: "MapleMono SC NF Light", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono SC NF LightItalic", serif;">MapleMono SC NF LightItalic</h3>
+<p style="font-family: "MapleMono SC NF LightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+<h3 style="font-family: "MapleMono SC NF Regular", serif;">MapleMono SC NF Regular</h3>
+<p style="font-family: "MapleMono SC NF Regular", serif;">The quick brown fox jumps over a lazy dog.<br />
+
+Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+
+
