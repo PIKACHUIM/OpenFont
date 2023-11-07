@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "Smiley Sans";
-  src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.ttf") format('truetype'),
-  url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.ttf.woff2") format('woff2'),
-  url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.otf") format('opentype'),
-  url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans-Oblique/SmileySans-Oblique.otf.woff2") format('woff2'),
+	font-family: "SmileySans Oblique";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans/SmileySans-Oblique.otf") format("opentype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans/SmileySans-Oblique.otf.woff2") format("woff2"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans/SmileySans-Oblique.ttf") format("truetype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/SmileySans/SmileySans/SmileySans-Oblique.ttf.woff2") format("woff2");
 }

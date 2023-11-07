@@ -1,0 +1,152 @@
+@font-face {
+	font-family: "JetBrainsMono Bold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Bold.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Bold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono BoldItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-BoldItalic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-BoldItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono ExtraBold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraBold.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraBold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono ExtraBoldItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraBoldItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono ExtraLight";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraLight.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraLight.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono ExtraLightItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraLightItalic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ExtraLightItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono Italic wght";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Italic wght.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMono Italic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Italic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Italic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono Light";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Light.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Light.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono LightItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-LightItalic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-LightItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono Medium";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Medium.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Medium.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono MediumItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-MediumItalic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono Regular";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Regular.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Regular.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono SemiBold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-SemiBold.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-SemiBold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono SemiBoldItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-SemiBoldItalic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-SemiBoldItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono Thin";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Thin.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-Thin.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono ThinItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ThinItalic.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-ThinItalic.woff2") format("woff2");
+}
+@font-face {
+	font-family: "JetBrainsMono wght";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMono/JetBrainsMono-wght.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL Bold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL BoldItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-BoldItalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL ExtraBold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL ExtraBoldItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-ExtraBoldItalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL ExtraLight";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-ExtraLight.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL ExtraLightItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-ExtraLightItalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL Italic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-Italic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL Light";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-Light.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL LightItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-LightItalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL Medium";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-Medium.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL MediumItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-MediumItalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL Regular";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-Regular.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL SemiBold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-SemiBold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL SemiBoldItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-SemiBoldItalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL Thin";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-Thin.ttf") format("truetype");
+}
+@font-face {
+	font-family: "JetBrainsMonoNL ThinItalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/JetBrainsMono/JetBrainsMonoNL/JetBrainsMonoNL-ThinItalic.ttf") format("truetype");
+}
