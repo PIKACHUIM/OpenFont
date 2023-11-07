@@ -37,7 +37,6 @@
 <link rel="stylesheet" href="https://font.52pika.cf/menu/JetBrainsMono.123yun.css">
 ```
 
-JetBrainsMono/JetBrainsMono/JetBrainsMono-Bold.ttf
 ### 使用字体 / Use Font
 
 ```css
