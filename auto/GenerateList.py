@@ -13,7 +13,8 @@ FONT_TYPE = {
 }
 URLS_LIST = {
     "123yun": "https://vip.123pan.cn/1814096936/CDN-123CLOUD/font",
-    "github": "https://github.com/PIKACHUIM/OpenFont/raw/main/font"
+    "github": "https://github.com/PIKACHUIM/OpenFont/raw/main/font",
+    "gitees": "https://pikachuim.gitee.io/openfont/font"
 }
 
 
@@ -57,12 +58,13 @@ class GenList:
             font_conf = self.conf[font_main]
             # Markdown ========================================================================
             save_text = ("| [%s](%s) | %s | %s | [%s](%s%s) | %s | %s "
-                         "| [CDN](%s) [Github](%s) | [%s](%s) |\n") % (
+                         "| [Github](%s) [Gitee](%s) [CDN](%s)| [%s](%s) |\n") % (
                             font_conf['name'], font_conf['repo'], font_conf['nick'],
                             font_conf['vers'], font_conf['shot'], font_conf['repo'],
                             font_conf['eula'], font_conf['f_iu'], font_conf['f_cu'],
-                            "https://font.52pika.cf/menu/%s.123yun.css" % font_main,
                             "https://font.52pika.cf/menu/%s.github.css" % font_main,
+                            "https://font.52pika.cf/menu/%s.gitees.css" % font_main,
+                            "https://font.52pika.cf/menu/%s.123yun.css" % font_main,
                             font_main, "font/%s" % font_main)
             read_file.write(save_text)
             font_maps = self.dealFont(font_main)
@@ -138,7 +140,7 @@ class GenList:
         save_data = ""
         show_data = ('<link rel="stylesheet" '
                      'href="https://font.52pika.cf/menu/'
-                     '{}.123yun.css">\n\n').format(font_main)
+                     '{}.gitees.css">\n\n').format(font_main)
         show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
                      '<p style="font-family: \'{1}\', serif;">'
                      'The quick brown fox jumps over a lazy dog.<br />\n\n'
