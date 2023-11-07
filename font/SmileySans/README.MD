@@ -7,10 +7,10 @@
 > 当前版本 / CurrentVer: 1.1.1
 > 
 > 使用限制 / Limitation：
-> - Yes 免费使用 / Free for Individual: Yes
-> - Yes 免费商用 / Free for commercial: Yes
-> - No 使用闭源 / Closed after modify: No
-> - No 许可更改 / No OFL after modify: No
+> - √ 免费使用 / Free for Individual: √
+> - √ 免费商用 / Free for commercial: √
+> - × 使用闭源 / Closed after modify: ×
+> - × 许可更改 / No OFL after modify: ×
 
 ## 使用办法 / Usage
 

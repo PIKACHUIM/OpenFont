@@ -20,10 +20,10 @@
       "text": "SIL Open Font License 1.1",
       "shot": "OFL 1.1",
       "eula": "/blob/main/LICENSE",
-      "f_iu": "Yes",
-      "f_cu": "Yes",
-      "m_cl": "No",
-      "m_an": "No",
+      "f_iu": "√",
+      "f_cu": "√",
+      "m_cl": "×",
+      "m_an": "×",
       "vers": "1.1.1"
     },
     "JetBrainsMono": {
