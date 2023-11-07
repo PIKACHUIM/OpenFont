@@ -170,12 +170,12 @@ class GenList:
                 self.path, font_main
         ), "w", encoding="utf8") as save_file:
             save_file.write(save_text)
-        with open("%s/%s/index.html" % (
-                self.path, font_main
-        ), "w", encoding="utf8") as save_file:
-            save_file.write(
-                markdown2.markdown(save_text)
-            )
+        # with open("%s/%s/index.html" % (
+        #         self.path, font_main
+        # ), "w", encoding="utf8") as save_file:
+        #     save_file.write(
+        #         markdown2.markdown(save_text)
+        #     )
 
 
 if __name__ == '__main__':
