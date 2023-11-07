@@ -10,6 +10,7 @@ FONT_TYPE = {
     "otf.woff2": "woff2",
     "ttf.woff2": "woff2",
     "woff": "woff",
+    "ttc": "truetype",
 }
 URLS_LIST = {
     "123yun": "https://vip.123pan.cn/1814096936/CDN-123CLOUD/font",

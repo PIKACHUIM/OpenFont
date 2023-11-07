@@ -1,0 +1,54 @@
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC bold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC bolditalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC bolditalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC extralight";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC extralight.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC extralightitalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC extralightitalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC italic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC italic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC light";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC light.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC lightitalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC lightitalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC regular";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC regular.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC semibold";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC semibold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Mono Nerd SC semibolditalic";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Mono-Nerd/Sarasa-Gothic-Mono-Nerd-SC semibolditalic.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Sarasa Gothic Super ";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super/Sarasa-Gothic-Super-.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super/Sarasa-Gothic-Super-.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super/Sarasa-Gothic-Super-.woff") format("woff"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super/Sarasa-Gothic-Super-.woff2") format("woff2");
+}
+@font-face {
+	font-family: "Sarasa Gothic Super Unhinted ";
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super-Unhinted/Sarasa-Gothic-Super-Unhinted-.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super-Unhinted/Sarasa-Gothic-Super-Unhinted-.ttf") format("truetype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super-Unhinted/Sarasa-Gothic-Super-Unhinted-.woff") format("woff"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/SarasaGothic/Sarasa-Gothic-Super-Unhinted/Sarasa-Gothic-Super-Unhinted-.woff2") format("woff2");
+}
