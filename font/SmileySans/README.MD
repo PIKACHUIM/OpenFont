@@ -1,4 +1,4 @@
-# SmileySans
+# Smiley Sans
 
 > ¿ªÔ´µØÖ· / Repository£º[https://github.com/atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)
 > 
