@@ -53,8 +53,8 @@ class GenList:
             save_text = ("| [%s](%s) | %s | %s | [%s](%s%s) | %s | %s "
                          "| [CN CDN](%s) [Github](%s) | [%s](%s) | None |\n") % (
                             font_conf['name'], font_conf['repo'], font_conf['nick'],
-                            font_conf['vers'], font_conf['text'], font_conf['repo'],
-                            font_conf['shot'], font_conf['f_iu'], font_conf['f_cu'],
+                            font_conf['vers'], font_conf['shot'], font_conf['repo'],
+                            font_conf['eula'], font_conf['f_iu'], font_conf['f_cu'],
                             "https://cdn-tx1.pika.net.cn/Menu/%s.123yun.css" % font_main,
                             "https://cdn-tx1.pika.net.cn/Menu/%s.github.css" % font_main,
                             font_main, "font/%s" % font_main)
