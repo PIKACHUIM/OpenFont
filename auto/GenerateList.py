@@ -51,7 +51,7 @@ class GenList:
             font_conf = self.conf[font_main]
             # Markdown ========================================================================
             save_text = ("| [%s](%s) | %s | %s | [%s](%s%s) | %s | %s "
-                         "| [CN CDN](%s) [Github](%s) | [%s](%s) | None |\n") % (
+                         "| [CDN](%s) [Github](%s) | [%s](%s) | None |\n") % (
                             font_conf['name'], font_conf['repo'], font_conf['nick'],
                             font_conf['vers'], font_conf['shot'], font_conf['repo'],
                             font_conf['eula'], font_conf['f_iu'], font_conf['f_cu'],
