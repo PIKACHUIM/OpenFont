@@ -1,36 +1,36 @@
 # Smiley Sans
 
-> ¿ªÔ´µØÖ· / Repository£º[https://github.com/atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)
+> å¼€æºåœ°å€ / Repositoryï¼š[https://github.com/atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)
 > 
-> Ğí¿ÉĞ­Òé / UseLicense£º[SIL Open Font License 1.1](https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE)
+> è®¸å¯åè®® / UseLicenseï¼š[SIL Open Font License 1.1](https://github.com/atelier-anchor/smiley-sans/blob/main/LICENSE)
 > 
-> µ±Ç°°æ±¾ / CurrentVer: 1.1.1
+> å½“å‰ç‰ˆæœ¬ / CurrentVer: 1.1.1
 > 
-> Ê¹ÓÃÏŞÖÆ / Limitation£º
-> - ¡Ì Ãâ·ÑÊ¹ÓÃ / Free for Individual: ¡Ì
-> - ¡Ì Ãâ·ÑÉÌÓÃ / Free for commercial: ¡Ì
-> - ¡Á Ê¹ÓÃ±ÕÔ´ / Closed after modify: ¡Á
-> - ¡Á Ğí¿É¸ü¸Ä / No OFL after modify: ¡Á
+> ä½¿ç”¨é™åˆ¶ / Limitationï¼š
+> - âˆš å…è´¹ä½¿ç”¨ / Free for Individual: âˆš
+> - âˆš å…è´¹å•†ç”¨ / Free for commercial: âˆš
+> - Ã— ä½¿ç”¨é—­æº / Closed after modify: Ã—
+> - Ã— è®¸å¯æ›´æ”¹ / No OFL after modify: Ã—
 
-## Ê¹ÓÃ°ì·¨ / Usage
+## ä½¿ç”¨åŠæ³• / Usage
 
-### µ¼ÈëCSS / Import CSS
+### å¯¼å…¥CSS / Import CSS
 
-**GithubÔ´£¬ÊÊºÏº£ÍâµØÇø£¬²»ÏŞÖÆÁ÷Á¿£¬ËÙ¶ÈÂı¿ÉĞŞ¸ÄcssÎÄ¼şÓÃgithub.ur1.fun/¼ÓËÙ**
+**Githubæºï¼Œé€‚åˆæµ·å¤–åœ°åŒºï¼Œä¸é™åˆ¶æµé‡ï¼Œé€Ÿåº¦æ…¢å¯ä¿®æ”¹cssæ–‡ä»¶ç”¨github.ur1.fun/åŠ é€Ÿ**
 
 **Github sources, suitable for overseas regions, unrestricted traffic or hosts**
 ```html
 <link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/SmileySans.github.css">
 ```
 
-**123ÔÆÅÌ,  Ã¿ÔÂ100GÁ÷Á¿£¬Îª±ÜÃâÀÄÓÃ£¬»áÊÓÇé¿ö½ûÖ¹·ÃÎÊ½ûÖ¹Æµ·±·ÃÎÊµÄIP»òÕßÖ÷»ú**
+**123äº‘ç›˜,  æ¯æœˆ100Gæµé‡ï¼Œä¸ºé¿å…æ»¥ç”¨ï¼Œä¼šè§†æƒ…å†µç¦æ­¢è®¿é—®ç¦æ­¢é¢‘ç¹è®¿é—®çš„IPæˆ–è€…ä¸»æœº**
 
 **To avoid abuse, some IP access will be prohibited depending on the situation**
 ```html
 <link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/SmileySans.123yun.css">
 ```
 
-### Ê¹ÓÃ×ÖÌå / Use Font
+### ä½¿ç”¨å­—ä½“ / Use Font
 
 ```css
 html{
@@ -38,13 +38,13 @@ html{
 }
 ```
 
-## ×ÖÌåÔ¤ÀÀ / Font Preview
+## å­—ä½“é¢„è§ˆ / Font Preview
 
 <link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/SmileySans.123yun.css">
 
 <h3 style="font-family: "SmileySans Oblique", serif;">SmileySans Oblique</h3>
 <p style="font-family: "SmileySans Oblique", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ıÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏĞ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”ç¿å£«é›…</p>
 
 

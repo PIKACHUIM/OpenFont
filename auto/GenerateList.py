@@ -168,11 +168,11 @@ class GenList:
         )
         with open("%s/%s/README.MD" % (
                 self.path, font_main
-        ), "w") as save_file:
+        ), "w", encoding="utf8") as save_file:
             save_file.write(save_text)
         with open("%s/%s/index.html" % (
                 self.path, font_main
-        ), "w") as save_file:
+        ), "w", encoding="utf8") as save_file:
             save_file.write(
                 markdown2.markdown(save_text)
             )

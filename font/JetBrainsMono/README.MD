@@ -1,36 +1,36 @@
 # JetBrains Mono
 
-> ¿ªÔ´µØÖ· / Repository£º[https://github.com/JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
+> å¼€æºåœ°å€ / Repositoryï¼š[https://github.com/JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono)
 > 
-> Ðí¿ÉÐ­Òé / UseLicense£º[SIL Open Font License 1.1](https://github.com/JetBrains/JetBrainsMono/blob/main/OFL.txt)
+> è®¸å¯åè®® / UseLicenseï¼š[SIL Open Font License 1.1](https://github.com/JetBrains/JetBrainsMono/blob/main/OFL.txt)
 > 
-> µ±Ç°°æ±¾ / CurrentVer: 2.304
+> å½“å‰ç‰ˆæœ¬ / CurrentVer: 2.304
 > 
-> Ê¹ÓÃÏÞÖÆ / Limitation£º
-> - ¡Ì Ãâ·ÑÊ¹ÓÃ / Free for Individual: ¡Ì
-> - ¡Ì Ãâ·ÑÉÌÓÃ / Free for commercial: ¡Ì
-> - ¡Á Ê¹ÓÃ±ÕÔ´ / Closed after modify: ¡Á
-> - ¡Á Ðí¿É¸ü¸Ä / No OFL after modify: ¡Á
+> ä½¿ç”¨é™åˆ¶ / Limitationï¼š
+> - âˆš å…è´¹ä½¿ç”¨ / Free for Individual: âˆš
+> - âˆš å…è´¹å•†ç”¨ / Free for commercial: âˆš
+> - Ã— ä½¿ç”¨é—­æº / Closed after modify: Ã—
+> - Ã— è®¸å¯æ›´æ”¹ / No OFL after modify: Ã—
 
-## Ê¹ÓÃ°ì·¨ / Usage
+## ä½¿ç”¨åŠžæ³• / Usage
 
-### µ¼ÈëCSS / Import CSS
+### å¯¼å…¥CSS / Import CSS
 
-**GithubÔ´£¬ÊÊºÏº£ÍâµØÇø£¬²»ÏÞÖÆÁ÷Á¿£¬ËÙ¶ÈÂý¿ÉÐÞ¸ÄcssÎÄ¼þÓÃgithub.ur1.fun/¼ÓËÙ**
+**Githubæºï¼Œé€‚åˆæµ·å¤–åœ°åŒºï¼Œä¸é™åˆ¶æµé‡ï¼Œé€Ÿåº¦æ…¢å¯ä¿®æ”¹cssæ–‡ä»¶ç”¨github.ur1.fun/åŠ é€Ÿ**
 
 **Github sources, suitable for overseas regions, unrestricted traffic or hosts**
 ```html
 <link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/JetBrainsMono.github.css">
 ```
 
-**123ÔÆÅÌ,  Ã¿ÔÂ100GÁ÷Á¿£¬Îª±ÜÃâÀÄÓÃ£¬»áÊÓÇé¿ö½ûÖ¹·ÃÎÊ½ûÖ¹Æµ·±·ÃÎÊµÄIP»òÕßÖ÷»ú**
+**123äº‘ç›˜,  æ¯æœˆ100Gæµé‡ï¼Œä¸ºé¿å…æ»¥ç”¨ï¼Œä¼šè§†æƒ…å†µç¦æ­¢è®¿é—®ç¦æ­¢é¢‘ç¹è®¿é—®çš„IPæˆ–è€…ä¸»æœº**
 
 **To avoid abuse, some IP access will be prohibited depending on the situation**
 ```html
 <link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/JetBrainsMono.123yun.css">
 ```
 
-### Ê¹ÓÃ×ÖÌå / Use Font
+### ä½¿ç”¨å­—ä½“ / Use Font
 
 ```css
 html{
@@ -71,178 +71,178 @@ html{
 }
 ```
 
-## ×ÖÌåÔ¤ÀÀ / Font Preview
+## å­—ä½“é¢„è§ˆ / Font Preview
 
 <link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/JetBrainsMono.123yun.css">
 
 <h3 style="font-family: "JetBrainsMono Bold", serif;">JetBrainsMono Bold</h3>
 <p style="font-family: "JetBrainsMono Bold", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono BoldItalic", serif;">JetBrainsMono BoldItalic</h3>
 <p style="font-family: "JetBrainsMono BoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono ExtraBold", serif;">JetBrainsMono ExtraBold</h3>
 <p style="font-family: "JetBrainsMono ExtraBold", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono ExtraBoldItalic", serif;">JetBrainsMono ExtraBoldItalic</h3>
 <p style="font-family: "JetBrainsMono ExtraBoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono ExtraLight", serif;">JetBrainsMono ExtraLight</h3>
 <p style="font-family: "JetBrainsMono ExtraLight", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono ExtraLightItalic", serif;">JetBrainsMono ExtraLightItalic</h3>
 <p style="font-family: "JetBrainsMono ExtraLightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono Italic wght", serif;">JetBrainsMono Italic wght</h3>
 <p style="font-family: "JetBrainsMono Italic wght", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono Italic", serif;">JetBrainsMono Italic</h3>
 <p style="font-family: "JetBrainsMono Italic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono Light", serif;">JetBrainsMono Light</h3>
 <p style="font-family: "JetBrainsMono Light", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono LightItalic", serif;">JetBrainsMono LightItalic</h3>
 <p style="font-family: "JetBrainsMono LightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono Medium", serif;">JetBrainsMono Medium</h3>
 <p style="font-family: "JetBrainsMono Medium", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono MediumItalic", serif;">JetBrainsMono MediumItalic</h3>
 <p style="font-family: "JetBrainsMono MediumItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono Regular", serif;">JetBrainsMono Regular</h3>
 <p style="font-family: "JetBrainsMono Regular", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono SemiBold", serif;">JetBrainsMono SemiBold</h3>
 <p style="font-family: "JetBrainsMono SemiBold", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono SemiBoldItalic", serif;">JetBrainsMono SemiBoldItalic</h3>
 <p style="font-family: "JetBrainsMono SemiBoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono Thin", serif;">JetBrainsMono Thin</h3>
 <p style="font-family: "JetBrainsMono Thin", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono ThinItalic", serif;">JetBrainsMono ThinItalic</h3>
 <p style="font-family: "JetBrainsMono ThinItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMono wght", serif;">JetBrainsMono wght</h3>
 <p style="font-family: "JetBrainsMono wght", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL Bold", serif;">JetBrainsMonoNL Bold</h3>
 <p style="font-family: "JetBrainsMonoNL Bold", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL BoldItalic", serif;">JetBrainsMonoNL BoldItalic</h3>
 <p style="font-family: "JetBrainsMonoNL BoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL ExtraBold", serif;">JetBrainsMonoNL ExtraBold</h3>
 <p style="font-family: "JetBrainsMonoNL ExtraBold", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL ExtraBoldItalic", serif;">JetBrainsMonoNL ExtraBoldItalic</h3>
 <p style="font-family: "JetBrainsMonoNL ExtraBoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL ExtraLight", serif;">JetBrainsMonoNL ExtraLight</h3>
 <p style="font-family: "JetBrainsMonoNL ExtraLight", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL ExtraLightItalic", serif;">JetBrainsMonoNL ExtraLightItalic</h3>
 <p style="font-family: "JetBrainsMonoNL ExtraLightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL Italic", serif;">JetBrainsMonoNL Italic</h3>
 <p style="font-family: "JetBrainsMonoNL Italic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL Light", serif;">JetBrainsMonoNL Light</h3>
 <p style="font-family: "JetBrainsMonoNL Light", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL LightItalic", serif;">JetBrainsMonoNL LightItalic</h3>
 <p style="font-family: "JetBrainsMonoNL LightItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL Medium", serif;">JetBrainsMonoNL Medium</h3>
 <p style="font-family: "JetBrainsMonoNL Medium", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL MediumItalic", serif;">JetBrainsMonoNL MediumItalic</h3>
 <p style="font-family: "JetBrainsMonoNL MediumItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL Regular", serif;">JetBrainsMonoNL Regular</h3>
 <p style="font-family: "JetBrainsMonoNL Regular", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL SemiBold", serif;">JetBrainsMonoNL SemiBold</h3>
 <p style="font-family: "JetBrainsMonoNL SemiBold", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL SemiBoldItalic", serif;">JetBrainsMonoNL SemiBoldItalic</h3>
 <p style="font-family: "JetBrainsMonoNL SemiBoldItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL Thin", serif;">JetBrainsMonoNL Thin</h3>
 <p style="font-family: "JetBrainsMonoNL Thin", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 <h3 style="font-family: "JetBrainsMonoNL ThinItalic", serif;">JetBrainsMonoNL ThinItalic</h3>
 <p style="font-family: "JetBrainsMonoNL ThinItalic", serif;">The quick brown fox jumps over a lazy dog.<br />
 
-Òò¹ýÖñÔº·êÉ®»°£¬ÍµµÃ¸¡Éú°ëÈÕÏÐ¡£¡ª¡ª¡ª¡ªöÄÊ¿ÑÅ</p>
+å› è¿‡ç«¹é™¢é€¢åƒ§è¯ï¼Œå·å¾—æµ®ç”ŸåŠæ—¥é—²ã€‚â€”â€”â€”â€”çž¿å£«é›…</p>
 
 
