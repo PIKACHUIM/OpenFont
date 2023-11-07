@@ -42,8 +42,8 @@ html{
 
 <link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/SmileySans.123yun.css">
 
-<h3 style="font-family: "SmileySans Oblique", serif;">SmileySans Oblique</h3>
-<p style="font-family: "SmileySans Oblique", serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'SmileySans Oblique', serif;">SmileySans Oblique</h3>
+<p style="font-family: 'SmileySans Oblique', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 

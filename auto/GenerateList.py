@@ -139,8 +139,8 @@ class GenList:
         show_data = ('<link rel="stylesheet" '
                      'href="https://cdn-tx1.pika.net.cn/Menu/'
                      '{}.123yun.css">\n\n').format(font_main)
-        show_temp = ('<h3 style="font-family: "{1}", serif;">{1}</h3>\n'
-                     '<p style="font-family: "{1}", serif;">'
+        show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
+                     '<p style="font-family: \'{1}\', serif;">'
                      'The quick brown fox jumps over a lazy dog.<br />\n\n'
                      '因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>\n\n')
         for font_subs in font_maps:
