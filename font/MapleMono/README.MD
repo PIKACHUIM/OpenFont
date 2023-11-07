@@ -20,14 +20,14 @@
 
 **Github sources, suitable for overseas regions, unrestricted traffic or hosts**
 ```html
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/MapleMono.github.css">
+<link rel="stylesheet" href="https://font.52pika.cf/menu/MapleMono.github.css">
 ```
 
 **123云盘,  每月100G流量，为避免滥用，会视情况禁止访问禁止频繁访问的IP或者主机**
 
 **To avoid abuse, some IP access will be prohibited depending on the situation**
 ```html
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/MapleMono.123yun.css">
+<link rel="stylesheet" href="https://font.52pika.cf/menu/MapleMono.123yun.css">
 ```
 
 ### 使用字体 / Use Font
@@ -63,7 +63,7 @@ html{
 
 ## 字体预览 / Font Preview
 
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/MapleMono.123yun.css">
+<link rel="stylesheet" href="https://font.52pika.cf/menu/MapleMono.123yun.css">
 
 <h3 style="font-family: 'MapleMono Bold', serif;">MapleMono Bold</h3>
 <p style="font-family: 'MapleMono Bold', serif;">The quick brown fox jumps over a lazy dog.<br />
@@ -184,4 +184,5 @@ html{
 <p style="font-family: 'MapleMono SC NF Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+
 

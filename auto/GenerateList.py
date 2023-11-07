@@ -61,8 +61,8 @@ class GenList:
                             font_conf['name'], font_conf['repo'], font_conf['nick'],
                             font_conf['vers'], font_conf['shot'], font_conf['repo'],
                             font_conf['eula'], font_conf['f_iu'], font_conf['f_cu'],
-                            "https://cdn-tx1.pika.net.cn/Menu/%s.123yun.css" % font_main,
-                            "https://cdn-tx1.pika.net.cn/Menu/%s.github.css" % font_main,
+                            "https://font.52pika.cf/menu/%s.123yun.css" % font_main,
+                            "https://font.52pika.cf/menu/%s.github.css" % font_main,
                             font_main, "font/%s" % font_main)
             read_file.write(save_text)
             font_maps = self.dealFont(font_main)
@@ -137,7 +137,7 @@ class GenList:
     def dealPage(self, font_main, font_maps):
         save_data = ""
         show_data = ('<link rel="stylesheet" '
-                     'href="https://cdn-tx1.pika.net.cn/Menu/'
+                     'href="https://font.52pika.cf/menu/'
                      '{}.123yun.css">\n\n').format(font_main)
         show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
                      '<p style="font-family: \'{1}\', serif;">'

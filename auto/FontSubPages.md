@@ -20,14 +20,14 @@
 
 **Github sources, suitable for overseas regions, unrestricted traffic or hosts**
 ```html
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/{10}.github.css">
+<link rel="stylesheet" href="https://font.52pika.cf/menu/{10}.github.css">
 ```
 
 **123云盘,  每月100G流量，为避免滥用，会视情况禁止访问禁止频繁访问的IP或者主机**
 
 **To avoid abuse, some IP access will be prohibited depending on the situation**
 ```html
-<link rel="stylesheet" href="https://cdn-tx1.pika.net.cn/Menu/{10}.123yun.css">
+<link rel="stylesheet" href="https://font.52pika.cf/menu/{10}.123yun.css">
 ```
 
 ### 使用字体 / Use Font
