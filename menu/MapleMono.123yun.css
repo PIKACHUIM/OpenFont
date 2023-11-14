@@ -1,13 +1,9 @@
 @font-face {
 	font-family: "MapleMono Bold";
-@font-face {
-	font-family: "MapleMono Bold";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Bold.otf") format("opentype"),
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Bold.ttf") format("truetype"),
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Bold.woff2") format("woff2");
 }
-@font-face {
-	font-family: "MapleMono BoldItalic";
 @font-face {
 	font-family: "MapleMono BoldItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-BoldItalic.otf") format("opentype"),
@@ -16,14 +12,10 @@
 }
 @font-face {
 	font-family: "MapleMono Italic";
-@font-face {
-	font-family: "MapleMono Italic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Italic.otf") format("opentype"),
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Italic.ttf") format("truetype"),
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Italic.woff2") format("woff2");
 }
-@font-face {
-	font-family: "MapleMono Light";
 @font-face {
 	font-family: "MapleMono Light";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Light.otf") format("opentype"),
@@ -32,14 +24,10 @@
 }
 @font-face {
 	font-family: "MapleMono LightItalic";
-@font-face {
-	font-family: "MapleMono LightItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-LightItalic.otf") format("opentype"),
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-LightItalic.ttf") format("truetype"),
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-LightItalic.woff2") format("woff2");
 }
-@font-face {
-	font-family: "MapleMono Regular";
 @font-face {
 	font-family: "MapleMono Regular";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono/MapleMono-Regular.otf") format("opentype"),
@@ -48,108 +36,72 @@
 }
 @font-face {
 	font-family: "MapleMono Autohint Bold";
-@font-face {
-	font-family: "MapleMono Autohint Bold";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Bold.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono Autohint BoldItalic";
 @font-face {
 	font-family: "MapleMono Autohint BoldItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-BoldItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono Autohint Italic";
-@font-face {
-	font-family: "MapleMono Autohint Italic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Italic.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono Autohint Light";
 @font-face {
 	font-family: "MapleMono Autohint Light";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono Autohint LightItalic";
-@font-face {
-	font-family: "MapleMono Autohint LightItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-LightItalic.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono Autohint Regular";
 @font-face {
 	font-family: "MapleMono Autohint Regular";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Regular.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF Bold";
-@font-face {
-	font-family: "MapleMono NF Bold";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-NF/MapleMono-NF-Bold.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono NF BoldItalic";
 @font-face {
 	font-family: "MapleMono NF BoldItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-NF/MapleMono-NF-BoldItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF Italic";
-@font-face {
-	font-family: "MapleMono NF Italic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-NF/MapleMono-NF-Italic.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono NF Light";
 @font-face {
 	font-family: "MapleMono NF Light";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-NF/MapleMono-NF-Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF LightItalic";
-@font-face {
-	font-family: "MapleMono NF LightItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-NF/MapleMono-NF-LightItalic.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono NF Regular";
 @font-face {
 	font-family: "MapleMono NF Regular";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-NF/MapleMono-NF-Regular.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF Bold";
-@font-face {
-	font-family: "MapleMono SC NF Bold";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Bold.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono SC NF BoldItalic";
 @font-face {
 	font-family: "MapleMono SC NF BoldItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-BoldItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF Italic";
-@font-face {
-	font-family: "MapleMono SC NF Italic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Italic.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono SC NF Light";
 @font-face {
 	font-family: "MapleMono SC NF Light";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF LightItalic";
-@font-face {
-	font-family: "MapleMono SC NF LightItalic";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-LightItalic.ttf") format("truetype");
 }
-@font-face {
-	font-family: "MapleMono SC NF Regular";
 @font-face {
 	font-family: "MapleMono SC NF Regular";
 	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Regular.ttf") format("truetype");

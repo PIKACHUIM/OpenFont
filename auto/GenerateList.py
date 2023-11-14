@@ -120,7 +120,6 @@ class GenList:
                         font_type = font_maps[font_subs][font_name]
                         temp_text = "%s %s" % (font_subs.replace("-", " "), font_name)
                         font_text = ('@font-face {\n\tfont-family: "%s";\n' % temp_text)
-                        save_file.write(font_text)
                         counter = 0
                         for item_type in font_type:
                             if item_type in FONT_TYPE:
