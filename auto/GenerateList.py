@@ -40,7 +40,7 @@ class GenList:
             print("[ERROR] path %s is not dir!" % self.path)
             return False
         # Create Header
-        with open("auto/ReadMeHeader.md", "r") as f:
+        with open("auto/ReadMeHeader.md", "r", encoding="utf8") as f:
             head_data = f.read()
         with open("README.MD", "w", encoding="utf8") as read_file:
             read_file.write(head_data)
@@ -60,10 +60,11 @@ class GenList:
             font_conf = self.conf[font_main]
             # Markdown ========================================================================
             save_text = ("| [%s](%s) | %s | %s | [%s](%s%s) | %s | %s "
-                         "| [Github](%s) [Gitee](%s) [CDN](%s)| [%s](%s) |\n") % (
+                         "| [Smart](%s) [Github](%s) [Gitee](%s) [123Yun](%s)| [%s](%s) |\n") % (
                             font_conf['name'], font_conf['repo'], font_conf['nick'],
                             font_conf['vers'], font_conf['shot'], font_conf['repo'],
                             font_conf['eula'], font_conf['f_iu'], font_conf['f_cu'],
+                            "https://font.52pika.cf/menu/%s.smarts.css" % font_main,
                             "https://font.52pika.cf/menu/%s.github.css" % font_main,
                             "https://font.52pika.cf/menu/%s.gitees.css" % font_main,
                             "https://font.52pika.cf/menu/%s.123yun.css" % font_main,
@@ -154,7 +155,9 @@ class GenList:
         show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
                      '<p style="font-family: \'{1}\', serif;">'
                      'The quick brown fox jumps over a lazy dog.<br />\n\n'
-                     '因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>\n\n')
+                     '因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />\n\n'
+                     'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />\n\n'
+                     'abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{{}}:;\'",><./?\\|</p>\n\n')
         for font_subs in font_maps:
             for font_name in font_maps[font_subs]:
                 temp_text = "%s %s" % (
