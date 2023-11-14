@@ -1,212 +1,212 @@
 @font-face {
 	font-family: "MonaSpace Argon Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Bold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Bold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Bold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Bold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon BoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon BoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-BoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-BoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon ExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon ExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon ExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon ExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon ExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-ExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Italic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Italic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Italic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Italic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Light.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Light.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Light.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Light.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon LightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon LightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-LightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-LightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon Medium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Medium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Medium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Medium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Medium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon MediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon MediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon MediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-MediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-MediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Regular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon Regular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Regular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-Regular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon SemiWideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon SemiWideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-SemiWideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Argon WideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon WideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Argon-WideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace ArgonVarVF[wght,wdth,slnt]";
@@ -216,213 +216,213 @@
 }
 @font-face {
 	font-family: "MonaSpace Krypton Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Bold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Bold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Bold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Bold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton BoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton BoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-BoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-BoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton ExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton ExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton ExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton ExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton ExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-ExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Italic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Italic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Italic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Italic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Light.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Light.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Light.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Light.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton LightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton LightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-LightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-LightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton Medium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Medium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Medium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Medium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Medium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton MediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton MediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton MediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-MediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-MediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Regular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton Regular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Regular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-Regular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton SemiWideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton SemiWideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-SemiWideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Krypton WideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton WideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Krypton-WideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace KryptonVarVF[wght,wdth,slnt]";
@@ -432,213 +432,213 @@
 }
 @font-face {
 	font-family: "MonaSpace Neon Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Bold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Bold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Bold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Bold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon BoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon BoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-BoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-BoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon ExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon ExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon ExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon ExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon ExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-ExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Italic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Italic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Italic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Italic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Light.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Light.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Light.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Light.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon LightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon LightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-LightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-LightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon Medium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Medium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Medium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Medium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Medium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon MediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon MediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon MediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-MediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-MediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Regular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon Regular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Regular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-Regular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon SemiWideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon SemiWideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-SemiWideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Neon WideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon WideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Neon-WideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace NeonVarVF[wght,wdth,slnt]";
@@ -648,213 +648,213 @@
 }
 @font-face {
 	font-family: "MonaSpace Radon Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Bold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Bold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Bold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Bold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon BoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon BoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-BoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-BoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon ExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon ExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon ExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon ExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon ExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-ExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Italic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Italic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Italic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Italic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Light.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Light.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Light.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Light.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon LightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon LightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-LightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-LightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon Medium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Medium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Medium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Medium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Medium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon MediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon MediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon MediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-MediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-MediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Regular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon Regular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Regular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-Regular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon SemiWideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon SemiWideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-SemiWideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Radon WideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon WideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Radon-WideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace RadonVarVF[wght,wdth,slnt]";
@@ -864,213 +864,213 @@
 }
 @font-face {
 	font-family: "MonaSpace Xenon Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Bold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Bold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Bold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Bold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon BoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon BoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-BoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-BoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon ExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon ExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon ExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon ExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon ExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-ExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Italic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Italic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Italic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Italic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Light.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Light.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Light.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Light.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon LightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon LightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-LightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-LightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon Medium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Medium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Medium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Medium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Medium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon MediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon MediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon MediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-MediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-MediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Regular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon Regular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Regular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-Regular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon SemiWideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon SemiWideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-SemiWideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideExtraBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideExtraBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideExtraLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideExtraLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideExtraLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideExtraLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideLight";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideLight.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideLight.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideLight.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideLight.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideLightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideLightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideLightItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideLightItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideLightItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideMedium";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideMedium.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideMedium.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideMedium.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideMedium.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideMediumItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideMediumItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideMediumItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideMediumItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideMediumItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideRegular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideRegular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideRegular.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideRegular.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideRegular.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideSemiBold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideSemiBold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideSemiBold.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideSemiBold.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideSemiBold.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace Xenon WideSemiBoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideSemiBoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon WideSemiBoldItalic.woff") format("woff");
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideSemiBoldItalic.otf") format("opentype"),
+	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MonaSpace/MonaSpace/MonaSpace-Xenon-WideSemiBoldItalic.woff") format("woff");
 }
 @font-face {
 	font-family: "MonaSpace XenonVarVF[wght,wdth,slnt]";

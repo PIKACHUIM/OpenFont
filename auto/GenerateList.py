@@ -129,7 +129,7 @@ class GenList:
                                 counter += 1
                                 font_text += '\tsrc: url("%s/%s/%s/%s-%s.%s") format("%s")' % (
                                     URLS_LIST[urls_item], font_main,
-                                    font_subs, font_subs, font_name,
+                                    font_subs, font_subs, font_name.replace(" ", "-"),
                                     item_type, FONT_TYPE[item_type]
                                 )
                         font_text += ";\n}\n"
@@ -140,8 +140,11 @@ class GenList:
     def dealPage(self, font_main, font_maps):
         save_data = ""
         show_data = ('<link rel="stylesheet" '
-                     'href="https://font.52pika.cf/menu/'
-                     '{}.gitees.css">\n\n').format(font_main)
+                     'href="https://pikachuim.gitee.io/openfont/menu/'
+                     '{}.gitees.css">\n').format(font_main)
+        show_data += ('<link rel="stylesheet" '
+                      'href="https://font.52pika.cf/menu/'
+                      '{}.gitees.css">\n\n').format(font_main)
         show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
                      '<p style="font-family: \'{1}\', serif;">'
                      'The quick brown fox jumps over a lazy dog.<br />\n\n'

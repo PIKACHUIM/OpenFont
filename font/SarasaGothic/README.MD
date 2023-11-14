@@ -21,6 +21,7 @@
 **Github sources, suitable for overseas regions, unrestricted traffic or hosts**
 ```html
 <link rel="stylesheet" href="https://font.52pika.cf/menu/SarasaGothic.github.css">
+<link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/SarasaGothic.github.css">
 ```
 
 **Gitee源，适合大陆地区，不限制流量，偶尔会被限制下载，可备用Github 源地址加速**
@@ -28,6 +29,7 @@
 **Gitee source, suitable for mainland China, occasionally restricted download!**
 ```html
 <link rel="stylesheet" href="https://font.52pika.cf/menu/SarasaGothic.gitees.css">
+<link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/SarasaGothic.gitees.css">
 ```
 
 **123云盘,  每月100G流量，为避免滥用，会视情况禁止访问禁止频繁访问的IP或者主机**
@@ -35,6 +37,7 @@
 **To avoid abuse, some IP access will be prohibited depending on the situation**
 ```html
 <link rel="stylesheet" href="https://font.52pika.cf/menu/SarasaGothic.123yun.css">
+<link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/SarasaGothic.123yun.css">
 ```
 
 ### 使用字体 / Use Font
@@ -58,6 +61,7 @@ html{
 
 ## 字体预览 / Font Preview
 
+<link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/SarasaGothic.gitees.css">
 <link rel="stylesheet" href="https://font.52pika.cf/menu/SarasaGothic.gitees.css">
 
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">Sarasa Gothic Mono Nerd SC Bold</h3>
