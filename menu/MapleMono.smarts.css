@@ -1,144 +1,144 @@
 @font-face {
 	font-family: "MapleMono Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Bold.otf") format("opentype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Bold.otf") format("opentype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Bold.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Bold.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Bold.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Bold.ttf") format("truetype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Bold.woff2") format("woff2"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Bold.woff2") format("woff2"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Bold.woff2") format("woff2");
 }
 @font-face {
 	font-family: "MapleMono BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-BoldItalic.otf") format("opentype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-BoldItalic.otf") format("opentype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-BoldItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-BoldItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-BoldItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-BoldItalic.ttf") format("truetype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-BoldItalic.woff2") format("woff2"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-BoldItalic.woff2") format("woff2"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-BoldItalic.woff2") format("woff2");
 }
 @font-face {
 	font-family: "MapleMono Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Italic.otf") format("opentype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Italic.otf") format("opentype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Italic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Italic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Italic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Italic.ttf") format("truetype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Italic.woff2") format("woff2"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Italic.woff2") format("woff2"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Italic.woff2") format("woff2");
 }
 @font-face {
 	font-family: "MapleMono Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Light.otf") format("opentype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Light.otf") format("opentype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Light.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Light.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Light.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Light.ttf") format("truetype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Light.woff2") format("woff2"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Light.woff2") format("woff2"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Light.woff2") format("woff2");
 }
 @font-face {
 	font-family: "MapleMono LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-LightItalic.otf") format("opentype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-LightItalic.otf") format("opentype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-LightItalic.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-LightItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-LightItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-LightItalic.ttf") format("truetype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-LightItalic.woff2") format("woff2"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-LightItalic.woff2") format("woff2"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-LightItalic.woff2") format("woff2");
 }
 @font-face {
 	font-family: "MapleMono Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Regular.otf") format("opentype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Regular.otf") format("opentype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Regular.otf") format("opentype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Regular.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Regular.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Regular.ttf") format("truetype"),
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono/MapleMono-Regular.woff2") format("woff2"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono/MapleMono-Regular.woff2") format("woff2"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono/MapleMono-Regular.woff2") format("woff2");
 }
 @font-face {
 	font-family: "MapleMono Autohint Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Bold.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-Autohint/MapleMono-Autohint-Bold.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Bold.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono Autohint BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-BoldItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-Autohint/MapleMono-Autohint-BoldItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-BoldItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono Autohint Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Italic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-Autohint/MapleMono-Autohint-Italic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Italic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono Autohint Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Light.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-Autohint/MapleMono-Autohint-Light.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono Autohint LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-LightItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-Autohint/MapleMono-Autohint-LightItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-LightItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono Autohint Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Regular.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-Autohint/MapleMono-Autohint-Regular.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-Autohint/MapleMono-Autohint-Regular.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-NF/MapleMono-NF-Bold.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-NF/MapleMono-NF-Bold.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-NF/MapleMono-NF-Bold.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-NF/MapleMono-NF-BoldItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-NF/MapleMono-NF-BoldItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-NF/MapleMono-NF-BoldItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-NF/MapleMono-NF-Italic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-NF/MapleMono-NF-Italic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-NF/MapleMono-NF-Italic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-NF/MapleMono-NF-Light.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-NF/MapleMono-NF-Light.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-NF/MapleMono-NF-Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-NF/MapleMono-NF-LightItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-NF/MapleMono-NF-LightItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-NF/MapleMono-NF-LightItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono NF Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-NF/MapleMono-NF-Regular.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-NF/MapleMono-NF-Regular.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-NF/MapleMono-NF-Regular.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF Bold";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Bold.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Bold.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Bold.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF BoldItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-BoldItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-BoldItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-BoldItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF Italic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Italic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Italic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Italic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF Light";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Light.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Light.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF LightItalic";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-LightItalic.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-LightItalic.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-LightItalic.ttf") format("truetype");
 }
 @font-face {
 	font-family: "MapleMono SC NF Regular";
-	src: url("https://github.com/PIKACHUIM/OpenFont/raw/main/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Regular.ttf") format("truetype"),
+	src: url("https://font.52pika.cf/font//MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Regular.ttf") format("truetype"),
 	src: url("https://pikachuim.gitee.io/openfont/font/MapleMono/MapleMono-SC-NF/MapleMono-SC-NF-Regular.ttf") format("truetype");
 }
