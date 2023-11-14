@@ -83,8 +83,8 @@ html{
 
 ## 字体预览 / Font Preview
 
-<link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/JetBrainsMono.gitees.css">
-<link rel="stylesheet" href="https://font.52pika.cf/menu/JetBrainsMono.github.css">
+<link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/JetBrainsMono.smarts.css">
+<link rel="stylesheet" href="https://font.52pika.cf/menu/JetBrainsMono.smarts.css">
 
 <h3 style="font-family: 'JetBrainsMono Bold', serif;">JetBrainsMono Bold</h3>
 <p style="font-family: 'JetBrainsMono Bold', serif;">The quick brown fox jumps over a lazy dog.<br />

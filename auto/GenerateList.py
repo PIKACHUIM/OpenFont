@@ -15,7 +15,8 @@ FONT_TYPE = {
 URLS_LIST = {
     "123yun": "https://vip.123pan.cn/1814096936/CDN-123CLOUD/font",
     "github": "https://github.com/PIKACHUIM/OpenFont/raw/main/font",
-    "gitees": "https://pikachuim.gitee.io/openfont/font"
+    "gitees": "https://pikachuim.gitee.io/openfont/font",
+    "smarts": ""
 }
 
 
@@ -117,21 +118,27 @@ class GenList:
                 for font_subs in font_maps:
                     for font_name in font_maps[font_subs]:
                         font_type = font_maps[font_subs][font_name]
-                        # temp_text = self.conf[font_main]['name'].replace("*", "")
-                        temp_text = "%s %s" % (
-                            font_subs.replace("-", " "), font_name)
+                        temp_text = "%s %s" % (font_subs.replace("-", " "), font_name)
                         font_text = ('@font-face {\n\tfont-family: "%s";\n' % temp_text)
+                        save_file.write(font_text)
                         counter = 0
                         for item_type in font_type:
                             if item_type in FONT_TYPE:
-                                if counter > 0:
-                                    font_text += ",\n"
-                                counter += 1
-                                font_text += '\tsrc: url("%s/%s/%s/%s-%s.%s") format("%s")' % (
-                                    URLS_LIST[urls_item], font_main,
-                                    font_subs, font_subs, font_name.replace(" ", "-"),
-                                    item_type, FONT_TYPE[item_type]
-                                )
+                                for urls_loop in URLS_LIST:
+                                    urls_path = URLS_LIST[urls_loop]
+                                    if urls_item != "smarts":
+                                        if urls_loop != urls_item:
+                                            continue
+                                    elif urls_loop == urls_item or urls_loop == "123yun":
+                                        continue
+                                    if counter > 0:
+                                        font_text += ",\n"
+                                    counter += 1
+                                    font_text += '\tsrc: url("%s/%s/%s/%s-%s.%s") format("%s")' % (
+                                        urls_path, font_main,
+                                        font_subs, font_subs, font_name.replace(" ", "-"),
+                                        item_type, FONT_TYPE[item_type]
+                                    )
                         font_text += ";\n}\n"
                         if counter > 0:
                             print(font_text)
@@ -141,10 +148,10 @@ class GenList:
         save_data = ""
         show_data = ('<link rel="stylesheet" '
                      'href="https://pikachuim.gitee.io/openfont/menu/'
-                     '{}.gitees.css">\n').format(font_main)
+                     '{}.smarts.css">\n').format(font_main)
         show_data += ('<link rel="stylesheet" '
                       'href="https://font.52pika.cf/menu/'
-                      '{}.github.css">\n\n').format(font_main)
+                      '{}.smarts.css">\n\n').format(font_main)
         show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
                      '<p style="font-family: \'{1}\', serif;">'
                      'The quick brown fox jumps over a lazy dog.<br />\n\n'
