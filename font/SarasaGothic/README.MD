@@ -41,18 +41,18 @@
 
 ```css
 html{
-	font-family: 'Sarasa Gothic Mono Nerd SC bold', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC bolditalic', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC extralight', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC extralightitalic', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC italic', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC light', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC lightitalic', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC regular', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC semibold', serif;
-	font-family: 'Sarasa Gothic Mono Nerd SC semibolditalic', serif;
-	font-family: 'Sarasa Gothic Super ', serif;
-	font-family: 'Sarasa Gothic Super Unhinted ', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;
+	font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;
+	font-family: 'Sarasa Gothic Super Regular', serif;
+	font-family: 'Sarasa Gothic Super Unhinted Regular', serif;
 }
 ```
 
@@ -60,63 +60,64 @@ html{
 
 <link rel="stylesheet" href="https://font.52pika.cf/menu/SarasaGothic.gitees.css">
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC bold', serif;">Sarasa Gothic Mono Nerd SC bold</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC bold', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">Sarasa Gothic Mono Nerd SC Bold</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC bolditalic', serif;">Sarasa Gothic Mono Nerd SC bolditalic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC bolditalic', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">Sarasa Gothic Mono Nerd SC Bolditalic</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC extralight', serif;">Sarasa Gothic Mono Nerd SC extralight</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC extralight', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">Sarasa Gothic Mono Nerd SC Extra Light Italic</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC extralightitalic', serif;">Sarasa Gothic Mono Nerd SC extralightitalic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC extralightitalic', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">Sarasa Gothic Mono Nerd SC Extra Light</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC italic', serif;">Sarasa Gothic Mono Nerd SC italic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC italic', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">Sarasa Gothic Mono Nerd SC Italic</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC light', serif;">Sarasa Gothic Mono Nerd SC light</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC light', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">Sarasa Gothic Mono Nerd SC Light Italic</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC lightitalic', serif;">Sarasa Gothic Mono Nerd SC lightitalic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC lightitalic', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">Sarasa Gothic Mono Nerd SC Light</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC regular', serif;">Sarasa Gothic Mono Nerd SC regular</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC regular', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">Sarasa Gothic Mono Nerd SC Regular</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC semibold', serif;">Sarasa Gothic Mono Nerd SC semibold</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC semibold', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">Sarasa Gothic Mono Nerd SC Semibold Italic</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC semibolditalic', serif;">Sarasa Gothic Mono Nerd SC semibolditalic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC semibolditalic', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">Sarasa Gothic Mono Nerd SC Semibold</h3>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Super ', serif;">Sarasa Gothic Super </h3>
-<p style="font-family: 'Sarasa Gothic Super ', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Super Regular', serif;">Sarasa Gothic Super Regular</h3>
+<p style="font-family: 'Sarasa Gothic Super Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
 
-<h3 style="font-family: 'Sarasa Gothic Super Unhinted ', serif;">Sarasa Gothic Super Unhinted </h3>
-<p style="font-family: 'Sarasa Gothic Super Unhinted ', serif;">The quick brown fox jumps over a lazy dog.<br />
+<h3 style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">Sarasa Gothic Super Unhinted Regular</h3>
+<p style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
 
 因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+
 
