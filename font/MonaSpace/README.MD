@@ -265,7 +265,7 @@ html{
 ## 字体预览 / Font Preview
 
 <link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/MonaSpace.gitees.css">
-<link rel="stylesheet" href="https://font.52pika.cf/menu/MonaSpace.gitees.css">
+<link rel="stylesheet" href="https://font.52pika.cf/menu/MonaSpace.github.css">
 
 <h3 style="font-family: 'MonaSpace Argon Bold', serif;">MonaSpace Argon Bold</h3>
 <p style="font-family: 'MonaSpace Argon Bold', serif;">The quick brown fox jumps over a lazy dog.<br />

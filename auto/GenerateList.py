@@ -144,7 +144,7 @@ class GenList:
                      '{}.gitees.css">\n').format(font_main)
         show_data += ('<link rel="stylesheet" '
                       'href="https://font.52pika.cf/menu/'
-                      '{}.gitees.css">\n\n').format(font_main)
+                      '{}.github.css">\n\n').format(font_main)
         show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
                      '<p style="font-family: \'{1}\', serif;">'
                      'The quick brown fox jumps over a lazy dog.<br />\n\n'
