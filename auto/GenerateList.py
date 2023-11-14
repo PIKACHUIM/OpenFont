@@ -14,7 +14,7 @@ FONT_TYPE = {
 }
 URLS_LIST = {
     "123yun": "https://vip.123pan.cn/1814096936/CDN-123CLOUD/font",
-    "github": "https://font.52pika.cf/font/",
+    "github": "https://font.52pika.cf/font",
     "gitees": "https://pikachuim.gitee.io/openfont/font",
     "smarts": ""
 }
