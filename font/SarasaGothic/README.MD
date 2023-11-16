@@ -77,111 +77,75 @@ html{
 <link rel="stylesheet" href="https://font.52pika.cf/menu/SarasaGothic.smarts.css">
 
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">Sarasa Gothic Mono Nerd SC Bold</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bold', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">Sarasa Gothic Mono Nerd SC Bolditalic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Bolditalic', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">Sarasa Gothic Mono Nerd SC Extra Light Italic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light Italic', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">Sarasa Gothic Mono Nerd SC Extra Light</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Extra Light', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">Sarasa Gothic Mono Nerd SC Italic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Italic', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">Sarasa Gothic Mono Nerd SC Light Italic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light Italic', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">Sarasa Gothic Mono Nerd SC Light</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Light', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">Sarasa Gothic Mono Nerd SC Regular</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Regular', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">Sarasa Gothic Mono Nerd SC Semibold Italic</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold Italic', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">Sarasa Gothic Mono Nerd SC Semibold</h3>
-<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Mono Nerd SC Semibold', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Super Regular', serif;">Sarasa Gothic Super Regular</h3>
-<p style="font-family: 'Sarasa Gothic Super Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Super Regular', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Super Regular', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Super Regular', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Super Regular', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">Sarasa Gothic Super Unhinted Regular</h3>
-<p style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'Sarasa Gothic Super Unhinted Regular', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 

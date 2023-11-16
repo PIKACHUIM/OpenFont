@@ -74,84 +74,57 @@ html{
 <link rel="stylesheet" href="https://font.52pika.cf/menu/NotoFonts.smarts.css">
 
 <h3 style="font-family: 'NotoSansMonoCJKsc Bold', serif;">NotoSansMonoCJKsc Bold</h3>
-<p style="font-family: 'NotoSansMonoCJKsc Bold', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSansMonoCJKsc Bold', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSansMonoCJKsc Bold', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSansMonoCJKsc Bold', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSansMonoCJKsc Bold', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSansMonoCJKsc Regular', serif;">NotoSansMonoCJKsc Regular</h3>
-<p style="font-family: 'NotoSansMonoCJKsc Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSansMonoCJKsc Regular', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSansMonoCJKsc Regular', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSansMonoCJKsc Regular', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSansMonoCJKsc Regular', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSerifSC Black', serif;">NotoSerifSC Black</h3>
-<p style="font-family: 'NotoSerifSC Black', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSerifSC Black', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSerifSC Black', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSerifSC Black', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSerifSC Black', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSerifSC Bold', serif;">NotoSerifSC Bold</h3>
-<p style="font-family: 'NotoSerifSC Bold', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSerifSC Bold', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSerifSC Bold', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSerifSC Bold', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSerifSC Bold', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSerifSC ExtraLight', serif;">NotoSerifSC ExtraLight</h3>
-<p style="font-family: 'NotoSerifSC ExtraLight', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSerifSC ExtraLight', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSerifSC ExtraLight', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSerifSC ExtraLight', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSerifSC ExtraLight', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSerifSC Light', serif;">NotoSerifSC Light</h3>
-<p style="font-family: 'NotoSerifSC Light', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSerifSC Light', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSerifSC Light', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSerifSC Light', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSerifSC Light', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSerifSC Medium', serif;">NotoSerifSC Medium</h3>
-<p style="font-family: 'NotoSerifSC Medium', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSerifSC Medium', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSerifSC Medium', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSerifSC Medium', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSerifSC Medium', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSerifSC Regular', serif;">NotoSerifSC Regular</h3>
-<p style="font-family: 'NotoSerifSC Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSerifSC Regular', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSerifSC Regular', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSerifSC Regular', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSerifSC Regular', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'NotoSerifSC SemiBold', serif;">NotoSerifSC SemiBold</h3>
-<p style="font-family: 'NotoSerifSC SemiBold', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'NotoSerifSC SemiBold', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'NotoSerifSC SemiBold', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'NotoSerifSC SemiBold', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'NotoSerifSC SemiBold', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 

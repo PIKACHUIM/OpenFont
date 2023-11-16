@@ -154,10 +154,13 @@ class GenList:
                       '{}.smarts.css">\n\n').format(font_main)
         show_temp = ('<h3 style="font-family: \'{1}\', serif;">{1}</h3>\n'
                      '<p style="font-family: \'{1}\', serif;">'
-                     'The quick brown fox jumps over a lazy dog.<br />\n\n'
-                     '因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />\n\n'
-                     'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />\n\n'
-                     'abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{{}}:;\'",><./?\\|</p>\n\n')
+                     'The quick brown fox jumps over a lazy dog.</p>\n'
+                     '<p style="font-family: \'{1}\', serif;">'
+                     '因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>\n'
+                     '<p style="font-family: \'{1}\', serif;">'
+                     'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>\n'
+                     '<p style="font-family: \'{1}\', serif;">'
+                     'abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{{}}:;\'",><./?\\|</p>\n<br/>\n')
         for font_subs in font_maps:
             for font_name in font_maps[font_subs]:
                 temp_text = "%s %s" % (

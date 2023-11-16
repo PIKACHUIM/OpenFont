@@ -66,12 +66,9 @@ html{
 <link rel="stylesheet" href="https://font.52pika.cf/menu/SmileySans.smarts.css">
 
 <h3 style="font-family: 'SmileySans Oblique', serif;">SmileySans Oblique</h3>
-<p style="font-family: 'SmileySans Oblique', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'SmileySans Oblique', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'SmileySans Oblique', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'SmileySans Oblique', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'SmileySans Oblique', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 

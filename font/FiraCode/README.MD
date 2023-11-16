@@ -72,66 +72,45 @@ html{
 <link rel="stylesheet" href="https://font.52pika.cf/menu/FiraCode.smarts.css">
 
 <h3 style="font-family: 'FiraCode Bold', serif;">FiraCode Bold</h3>
-<p style="font-family: 'FiraCode Bold', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'FiraCode Bold', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'FiraCode Bold', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'FiraCode Bold', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'FiraCode Bold', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'FiraCode Light', serif;">FiraCode Light</h3>
-<p style="font-family: 'FiraCode Light', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'FiraCode Light', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'FiraCode Light', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'FiraCode Light', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'FiraCode Light', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'FiraCode Medium', serif;">FiraCode Medium</h3>
-<p style="font-family: 'FiraCode Medium', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'FiraCode Medium', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'FiraCode Medium', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'FiraCode Medium', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'FiraCode Medium', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'FiraCode Regular', serif;">FiraCode Regular</h3>
-<p style="font-family: 'FiraCode Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'FiraCode Regular', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'FiraCode Regular', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'FiraCode Regular', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'FiraCode Regular', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'FiraCode Retina', serif;">FiraCode Retina</h3>
-<p style="font-family: 'FiraCode Retina', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'FiraCode Retina', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'FiraCode Retina', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'FiraCode Retina', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'FiraCode Retina', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'FiraCode SemiBold', serif;">FiraCode SemiBold</h3>
-<p style="font-family: 'FiraCode SemiBold', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'FiraCode SemiBold', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'FiraCode SemiBold', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'FiraCode SemiBold', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'FiraCode SemiBold', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 <h3 style="font-family: 'FiraCode VF', serif;">FiraCode VF</h3>
-<p style="font-family: 'FiraCode VF', serif;">The quick brown fox jumps over a lazy dog.<br />
-
-因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
-
-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
-
-abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
-
+<p style="font-family: 'FiraCode VF', serif;">The quick brown fox jumps over a lazy dog.</p>
+<p style="font-family: 'FiraCode VF', serif;">因过竹院逢僧话，偷得浮生半日闲。————瞿士雅</p>
+<p style="font-family: 'FiraCode VF', serif;">ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</p>
+<p style="font-family: 'FiraCode VF', serif;">abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+<br/>
 
