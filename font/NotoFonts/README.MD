@@ -56,6 +56,8 @@
 
 ```css
 html{
+	font-family: 'NotoSansMonoCJKsc Bold', serif;
+	font-family: 'NotoSansMonoCJKsc Regular', serif;
 	font-family: 'NotoSerifSC Black', serif;
 	font-family: 'NotoSerifSC Bold', serif;
 	font-family: 'NotoSerifSC ExtraLight', serif;
@@ -70,6 +72,24 @@ html{
 
 <link rel="stylesheet" href="https://pikachuim.gitee.io/openfont/menu/NotoFonts.smarts.css">
 <link rel="stylesheet" href="https://font.52pika.cf/menu/NotoFonts.smarts.css">
+
+<h3 style="font-family: 'NotoSansMonoCJKsc Bold', serif;">NotoSansMonoCJKsc Bold</h3>
+<p style="font-family: 'NotoSansMonoCJKsc Bold', serif;">The quick brown fox jumps over a lazy dog.<br />
+
+因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
+
+abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
+
+<h3 style="font-family: 'NotoSansMonoCJKsc Regular', serif;">NotoSansMonoCJKsc Regular</h3>
+<p style="font-family: 'NotoSansMonoCJKsc Regular', serif;">The quick brown fox jumps over a lazy dog.<br />
+
+因过竹院逢僧话，偷得浮生半日闲。————瞿士雅<br />
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789<br />
+
+abcdefghijklmnopqrstuvwxyz~`!@#$%^&*()_-+=[]{}:;'",><./?\|</p>
 
 <h3 style="font-family: 'NotoSerifSC Black', serif;">NotoSerifSC Black</h3>
 <p style="font-family: 'NotoSerifSC Black', serif;">The quick brown fox jumps over a lazy dog.<br />

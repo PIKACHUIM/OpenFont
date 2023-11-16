@@ -1,4 +1,12 @@
 @font-face {
+	font-family: "NotoSansMonoCJKsc Bold";
+	src: url("https://pikachuim.gitee.io/openfont/font/NotoFonts/NotoSansMonoCJKsc/NotoSansMonoCJKsc-Bold.otf") format("opentype");
+}
+@font-face {
+	font-family: "NotoSansMonoCJKsc Regular";
+	src: url("https://pikachuim.gitee.io/openfont/font/NotoFonts/NotoSansMonoCJKsc/NotoSansMonoCJKsc-Regular.otf") format("opentype");
+}
+@font-face {
 	font-family: "NotoSerifSC Black";
 	src: url("https://pikachuim.gitee.io/openfont/font/NotoFonts/NotoSerifSC/NotoSerifSC-Black.otf") format("opentype");
 }
