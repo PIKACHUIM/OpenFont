@@ -64,6 +64,32 @@
       "m_cl": "✘",
       "m_an": "✘",
       "vers": "1.0"
+    },
+    "NotoFonts": {
+      "name": "**Noto Fonts**",
+      "nick": "/",
+      "repo": "https://github.com/notofonts/noto-cjk",
+      "text": "SIL Open Font License 1.1",
+      "shot": "OFL 1.1",
+      "eula": "/blob/main/LICENSE",
+      "f_iu": "✔",
+      "f_cu": "✔",
+      "m_cl": "✘",
+      "m_an": "✘",
+      "vers": "2.0002"
+    },
+    "FiraCode": {
+      "name": "**Fira Code**",
+      "nick": "/",
+      "repo": "https://github.com/tonsky/FiraCode",
+      "text": "SIL Open Font License 1.1",
+      "shot": "OFL 1.1",
+      "eula": "/blob/main/LICENSE",
+      "f_iu": "✔",
+      "f_cu": "✔",
+      "m_cl": "✘",
+      "m_an": "✘",
+      "vers": "6.2"
     }
   }
 }

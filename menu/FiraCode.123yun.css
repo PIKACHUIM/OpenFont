@@ -1,0 +1,40 @@
+@font-face {
+	font-family: "FiraCode Bold";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Bold.ttf") format("truetype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Bold.woff") format("woff"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Bold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "FiraCode Light";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Light.ttf") format("truetype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Light.woff") format("woff"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Light.woff2") format("woff2");
+}
+@font-face {
+	font-family: "FiraCode Medium";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Medium.ttf") format("truetype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Medium.woff") format("woff"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Medium.woff2") format("woff2");
+}
+@font-face {
+	font-family: "FiraCode Regular";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Regular.ttf") format("truetype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Regular.woff") format("woff"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Regular.woff2") format("woff2");
+}
+@font-face {
+	font-family: "FiraCode Retina";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-Retina.ttf") format("truetype");
+}
+@font-face {
+	font-family: "FiraCode SemiBold";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-SemiBold.ttf") format("truetype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-SemiBold.woff") format("woff"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-SemiBold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "FiraCode VF";
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-VF.ttf") format("truetype"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-VF.woff") format("woff"),
+	src: url("https://vip.123pan.cn/1814096936/CDN-123CLOUD/font/FiraCode/FiraCode/FiraCode-VF.woff2") format("woff2");
+}
